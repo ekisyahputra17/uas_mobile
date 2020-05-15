@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="register" type="id" />
+    <item name="loginBtn" type="id" />
+    <item name="password" type="id" />
+    <item name="username" type="id" />
+    <item name="confirm_password" type="id" />
+    <item name="registerBtn" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="container_layout" type="id" />
+    <item name="navigation_dashboard" type="id" />
+    <item name="navigation_account" type="id" />
+    <item name="navigation" type="id" />
+</resources>

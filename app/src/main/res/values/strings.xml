@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQlite</string>
+    <string name="hello_home_fragment" />
+    <string name="hello_account_fragment" />
+    <string name="sign_out" />
+    <string name="hello_dash_fragment" />
+    <string name="title_home" />
+    <string name="title_dashboard" />
+    <string name="title_account" />
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="baseline_keyboard_hide_black_18dp" />
+    <drawable name="baseline_home_black_24dp" />
+    <drawable name="baseline_dashboard_black_24dp" />
+    <drawable name="baseline_face_black_18dp" />
+</resources>
